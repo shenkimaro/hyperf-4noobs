@@ -63,9 +63,11 @@ Todas contribuições são **extremamente apreciadas**.
 
 ## Referências 
 
-- [PHP assíncrono com Swoole | PHP Community Summit](https://www.youtube.com/watch?v=qgXj4eyrT-Q)
-- [O que são corrotinas? | Dias de Dev](https://www.youtube.com/watch?v=Nbt0eQHChoI)
-  
+- [PHP assíncrono com Swoole](https://www.youtube.com/watch?v=qgXj4eyrT-Q)
+- [Swoole PHP: servidor assíncrono e corrotinas com PHP](https://www.alura.com.br/conteudo/swoole-php-servidor-assincrono-corrotinas-php)
+- [Introdução ao Swoole](https://www.treinaweb.com.br/blog/introducao-ao-swoole-framework-php-assincrono-baseado-em-corrotinas)
+- [O que são corrotinas?](https://www.youtube.com/watch?v=Nbt0eQHChoI)
+
 ---
 
 <p align="center">
