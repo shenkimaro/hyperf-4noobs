@@ -9,25 +9,25 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Título do seu 4noobs</h2>
+  <h2 align="center">Hyperf 4noobs</h2>
 
-  <h1 align="center"><img src=".github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src=".github/hyperf.png" alt="Logo do Hyperf" width="120"></h1>
   
   <p align="center">
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/opencodeco/hyperf-4noobs/issues">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/opencodeco/hyperf-4noobs/issues">Request Feature</a>
   </p>
 </p>
     
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Uma introdução à Swoole, suas Corrotinas e ao seu principal framework, o Hyperf.
 
 <!-- ROADMAP OF PROJECT -->
 
@@ -60,7 +60,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Leo Cavalcante** - _Staff Engineer_ - [@leocavalcante](https://twitter.com/leocavalcante)
 
 ---
 
