@@ -9,7 +9,7 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Hyperf 4noobs</h2>
+  <h2 align="center"><b>Hyperf</b><i>4Noobs</i></h2>
 
   <h1 align="center"><img src="assets/hyperf.png" alt="Logo do Hyperf" width="120"></h1>
   
@@ -33,15 +33,15 @@ Uma introdução à Swoole, suas Corrotinas e ao seu principal framework, o Hype
 
 ## ROADMAP
 
-### Introdućão
+### 💜 Introdução
 - [Boas vindas](content/welcome.md)
 
-### Contexto
+### 🤝 Contexto
 - [PHP assíncrono (não-bloqueante)](content/non-blocking-php.md)
 - [Concorrente vs. Paralelo](content/concurrency-vs-parallelism.md)
 - [Swoole](content/swoole.md)
 
-### Hyperf
+### 🚀 Hyperf
 
 
 <!-- CONTRIBUTING -->
