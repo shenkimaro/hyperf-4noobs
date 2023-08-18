@@ -48,8 +48,8 @@ Uma introdução à Swoole, suas Corrotinas e ao seu principal framework, o Hype
 
 ## Como Contribuir
 
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar.<br>
+Todas contribuições são **extremamente apreciadas**.
 
 1. Realize um Fork do projeto
 2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
