@@ -39,4 +39,4 @@ O PHP é tradicionalmente síncrono, cada processo/worker do PHP-FPM lida com ap
 
 ## Por isso a ideia de PHP assíncrono!
 
-Com o PHP assíncrono a gente pode quebrar essa barreira e fazer as aplicações PHP terem **I/O não-bloqueante**, e se o processo não bloqueia, isso significa que você pode atender várias requisições simultaneamente nesse mesmo processo, aumentando consideravelmente a forma como os recursos são utilizados no servidor.
+Com o PHP assíncrono a gente pode quebrar essa barreira e fazer as aplicações PHP terem **I/O não-bloqueante**, e se o processo não bloqueia, isso significa que você pode atender várias requisições simultaneamente nesse mesmo processo, aumentando consideravelmente a eficiência dos recursos utilizados no servidor.
