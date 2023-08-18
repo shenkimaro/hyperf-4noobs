@@ -4,8 +4,8 @@ Quando o assunto é assíncronia, ou seja, tratar as coisas sem uma sequência d
 
 ## Concorrência
 
-Na concorrência as etapas são alternadas de forma frequente, pensando no nosso exemplo do garçom, é como se 1 garçom atendesse mais de uma mesa durante seu trabalho.
+Na concorrência as etapas são alternadas de forma frequente, pensando no nosso exemplo do garçom, é como se 1 garçom atendesse mais de uma mesa durante seu trabalho e alternasse sua atenção entre elas.
 
 ## Paralelismo
 
-No paralelismo as etapas acontecem de verdade juntas, em linhas de tempo paralelas, no nosso exemplo do restaurante é como se tivessem dois garçons.
+No paralelismo as etapas acontecem de verdade juntas, em linhas de tempo paralelas, no nosso exemplo do restaurante seria como se houvesse no mínimo, dois garçons.
