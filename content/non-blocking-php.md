@@ -31,4 +31,12 @@ Agora imagina como seria se chegassem mais pessoas no restaurante, imagina ter q
 - Esperar o cliente terminar de comer
 - etc
 
-**Você ia ficar de pé, na porta do restaurante olhando o garçom esperar tudo isso acontecer pra depois iniciar uma nova sequência de etapas com você?**
+**Você ia ficar de pé, na porta do restaurante, olhando o garçom esperar tudo isso acontecer pra depois iniciar uma nova sequência de etapas com você?**
+
+Seria estranho, não é mesmo? **Mas é isso que acontece no PHP** 😮
+
+O PHP é tradicionalmente síncrono, cada processo/worker do PHP-FPM lida com apenas uma requisição por vez e cada I/O (chamadas ao banco de dados, por exemplo) que você faz também **bloqueia** todo esse processo.
+
+## Por isso a ideia de PHP assíncrono!
+
+Com o PHP assíncrono a gente pode quebrar essa barreira e fazer as aplicações PHP terem **I/O não-bloqueante**, e se o processo não bloqueia, isso significa que você pode atender várias requisições simultaneamente nesse mesmo processo, aumentando consideravelmente a forma como os recursos são utilizados no servidor.
