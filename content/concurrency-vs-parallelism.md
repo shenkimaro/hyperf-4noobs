@@ -8,4 +8,4 @@ Na concorrência as etapas são alternadas de forma frequente, pensando no nosso
 
 ## Paralelismo
 
-No paralelismo as etapas acontecem de verdade juntas, em linhas de tempo paralelas, no nosso exemplo do restaurante seria como se houvesse no mínimo, dois garçons.
+No paralelismo as etapas acontecem de verdade juntas, em linhas de tempo paralelas, no nosso exemplo do restaurante seria como se houvessem no mínimo, dois garçons.
