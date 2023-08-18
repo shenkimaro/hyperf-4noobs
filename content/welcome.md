@@ -1,7 +1,7 @@
 # Boas vindas
 
-Este é o Hyperf 4noobs!
+Este é o Hyperf4Noobs!
 
-Um conjunto de materiais para as pessoas interessadas em aprender mais sobre esse framework PHP.
+Um conjunto de materiais para as pessoas interessadas em aprender mais sobre esse framework PHP que vem conquistando corações 💜.
 
-Espero que você aproveite o conteúdo e não se esqueca que ele é nosso, fique à vontade para contribuir com correćões e fazer sugestões de melhorias.
+Espero que você aproveite o conteúdo e não se esqueca que ele é nosso, fique à vontade para contribuir com correções e fazer sugestões de melhorias.
