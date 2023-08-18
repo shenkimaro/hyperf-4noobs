@@ -61,6 +61,11 @@ Todas contribuições são **extremamente apreciadas**.
 
 - **Leo Cavalcante** - _Staff Engineer_ - [@leocavalcante](https://twitter.com/leocavalcante)
 
+## Referências 
+
+- [PHP assíncrono com Swoole | PHP Community Summit](https://www.youtube.com/watch?v=qgXj4eyrT-Q)
+- [O que são corrotinas? | Dias de Dev](https://www.youtube.com/watch?v=Nbt0eQHChoI)
+  
 ---
 
 <p align="center">
