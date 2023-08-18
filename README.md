@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src=".github/header_4noobs.svg">
+    <img src="assets/header_4noobs.svg">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Hyperf 4noobs</h2>
 
-  <h1 align="center"><img src=".github/hyperf.png" alt="Logo do Hyperf" width="120"></h1>
+  <h1 align="center"><img src="assets/hyperf.png" alt="Logo do Hyperf" width="120"></h1>
   
   <p align="center">
     <br />
@@ -66,6 +66,6 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src=".github/footer_4noobs.svg" width="380">
+    <img src="assets/footer_4noobs.svg" width="380">
   </a>
 </p>
