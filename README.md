@@ -39,7 +39,7 @@ Uma introdução à Swoole, suas Corrotinas e ao seu principal framework, o Hype
 ### 🤝 Contexto
 - [PHP assíncrono (não-bloqueante)](content/non-blocking-php.md)
 - [Concorrente vs. Paralelo](content/concurrency-vs-parallelism.md)
-- [Swoole](content/swoole.md)
+- [Swoole & Corrotinas](content/swoole.md)
 
 ### 🚀 Hyperf
 
