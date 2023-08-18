@@ -67,6 +67,9 @@ Todas contribuições são **extremamente apreciadas**.
 - [Swoole PHP: servidor assíncrono e corrotinas com PHP](https://www.alura.com.br/conteudo/swoole-php-servidor-assincrono-corrotinas-php)
 - [Introdução ao Swoole](https://www.treinaweb.com.br/blog/introducao-ao-swoole-framework-php-assincrono-baseado-em-corrotinas)
 - [O que são corrotinas?](https://www.youtube.com/watch?v=Nbt0eQHChoI)
+- [O que é o HyperF? #shorts](https://www.youtube.com/watch?v=gEoONCmIuZM)
+- [Hyperf - PHP Coroutine Framework baseado em Swoole](https://leocarmo.dev/hyperf-php-coroutine-framework-baseado-em-swoole)
+- [Guia completo do framework Hyperf](https://programadoresdepre.com.br/guia-completo-do-framework-hyperf-para-construcao-de-aplicativos-php-modernos/)
 
 ---
 
