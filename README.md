@@ -43,6 +43,7 @@ Uma introdução à Swoole, suas Corrotinas e ao seu principal framework, o Hype
 
 ### 🚀 Hyperf
 - [Introdução](content/introduction.md)
+- [Criando nosso projeto](content/create-project.md)
 
 <!-- CONTRIBUTING -->
 
