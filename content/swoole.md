@@ -4,7 +4,7 @@ Agora que a gente já entendeu as vantagens da programação assíncrona e os mo
 
 Como falamos anteriormente, o PHP é tradicionamente bloqueante, mas não significa que não suporte assíncronia em algumas de suas extensões de I/O.
 
-Uma delas é a [Streams](https://www.php.net/manual/en/book.stream.php) essa extensão é parte do core do PHP e não requer nenhuma instalação.<br>
+Uma delas é a [Streams](https://www.php.net/manual/en/book.stream.php) essa extensão é parte do core do PHP e não requer qualquer outro tipo de instalação.<br>
 Através da função [`stream_set_blocking`](https://www.php.net/manual/en/function.stream-set-blocking.php) é possível tornar o *Resource* de um stream não-bloqueante.
 
 Isso já possíbilida algumas coisas, mas é muito **low-level**.
